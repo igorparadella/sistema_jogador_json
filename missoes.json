@@ -1,0 +1,6 @@
+
+[
+  { "id": 1, "titulo": "Ler um capítulo de livro", "exp": 100 },
+  { "id": 2, "titulo": "Fazer 10 flexões", "exp": 150 },
+  { "id": 3, "titulo": "Programar por 30 minutos", "exp": 200 }
+]
